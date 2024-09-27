@@ -1,0 +1,22 @@
+li{
+    color: #fff;
+    font-weight:600;
+    font-size: 15px;
+}
+li:focus{
+    color: #36a2e0;
+    transition:0.3s;
+}
+/* mobile menu */
+.dark_bg{
+    background-color: #36a2e0;
+}
+.a_navbar_box li{
+    padding:2px 10px;
+    border: 1px solid  #fff;
+    border-radius:4px;
+}
+.a_navbar_box li:hover{
+    padding:2px 10px;
+border: 1px solid  #36a2e0;
+}

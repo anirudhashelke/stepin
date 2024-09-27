@@ -1,0 +1,16 @@
+.a_footer p{
+line-height: 24px;
+}
+.a_footer a{
+    line-height: 40px;
+}
+.a_footer span{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgba(40, 208, 238, 0.402);
+    cursor: pointer;
+}
+.a_footer span:hover{
+    background-color: blue;
+    transition: all 0.5s;
+}

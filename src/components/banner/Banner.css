@@ -1,0 +1,10 @@
+.a_banner{
+    background-image: url("/public/banner.png");
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% -8%;
+}
+.superApp{
+    text-shadow: 1px 4px 2px rgba(150, 150, 150, 1);
+}
